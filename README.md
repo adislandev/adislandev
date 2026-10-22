@@ -2,7 +2,7 @@
 
 Desenvolvedor web e professor de tecnologia, com mais de 14 anos de experiência em TI e educação. Construo sistemas web para escola (simulados, gestão escolar, dashboards) e dou aula de programação, banco de dados e lógica no ensino técnico e superior.
 
-Portfólio: [adislanconsultoria.com]([https://adislanconsultoria.com](https://portfolio.adislanconsultoria.com))
+Portfólio: [portfolio.adislanconsultoria.com](https://portfolio.adislanconsultoria.com)
 
 <div>
   <a href="https://github.com/adislandev">
