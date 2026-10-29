@@ -6,8 +6,8 @@ Portfólio: [portfolio.adislanconsultoria.com](https://portfolio.adislanconsulto
 
 <div>
   <a href="https://github.com/adislandev">
-    <img height="180em" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=adislandev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs"/>
-    <img height="180em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adislandev&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" alt="Estatísticas do GitHub" src="assets/github-stats.svg"/>
+    <img height="180em" alt="Linguagens mais usadas" src="assets/top-langs.svg"/>
   </a>
 </div>
 
