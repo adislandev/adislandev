@@ -4,13 +4,6 @@ Desenvolvedor web e professor de tecnologia, com mais de 14 anos de experiência
 
 Portfólio: [portfolio.adislanconsultoria.com](https://portfolio.adislanconsultoria.com)
 
-<div>
-  <a href="https://github.com/adislandev">
-    <img height="180em" alt="Estatísticas do GitHub" src="assets/github-stats.svg"/>
-    <img height="180em" alt="Linguagens mais usadas" src="assets/top-langs.svg"/>
-  </a>
-</div>
-
 ### Stack
 
 <div style="display: inline_block"><br>
